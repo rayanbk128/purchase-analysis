@@ -1,0 +1,4 @@
+how to run python file:
+open terminal on your editor then:
+1.pip install streamlit pandas numpy mlxtend plotly
+2.streamlit run MiniProject.py
